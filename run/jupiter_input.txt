@@ -1,0 +1,23 @@
+[planets]
+2
+1.8986e27 7.783e11,0,0 0,13070.,0
+1.98855e30 0,0,0 0,0,0
+[planet_names]
+Jupiter
+Sun
+[iterations]
+1000000
+[total_time]
+3.7407e8
+[update_step]
+100000
+[save_step]
+1000
+[frame_step]
+10
+[outputfile]
+jupiter.txt
+[do_animation]
+true
+[anim_filename]
+jupiter

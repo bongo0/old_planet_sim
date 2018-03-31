@@ -1,0 +1,22 @@
+[planets]
+2
+7.342e22 384400e3,0,0 0,1022,0
+5.97219e24 0,0,0 0,0,0
+[total_time]
+2.360585e6
+[outputfile]
+moondata.txt
+[planet_names]
+moon
+earth
+[update_step]
+1000
+[do_animation]
+true
+[iterations]
+100
+[save_step]
+1
+
+
+

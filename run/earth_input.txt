@@ -1,0 +1,23 @@
+[planets]
+2
+5.97219e24 1.496e11,0,0 0,29780.,0
+1.98855e30 0,0,0 0,0,0
+[planet_names]
+Earth
+Sun
+[iterations]
+1000000
+[total_time]
+3.154e7
+[update_step]
+100000
+[save_step]
+1000
+[frame_step]
+10
+[outputfile]
+year.txt
+[do_animation]
+true
+[anim_filename]
+year

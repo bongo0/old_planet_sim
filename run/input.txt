@@ -1,0 +1,29 @@
+[planets]
+4
+1e26,   0.,0.,0.,   0.,0.,0.
+1e26,   70e9,1e10.,0.,   0.,0.,0.
+1e26,   72e9,68e9,0.,   0.,0.,0.
+1e26,   0,1e10,-30e9,   0.,0.,0.
+[planet_names]
+planeetta1
+planeetta2
+planeetta3
+planeetta4
+[iterations]
+1000000
+[total_time]
+7.3e8
+[update_step]
+100000
+[save_step]
+1000
+[frame_step]
+10
+[distance_constraint]
+1e10
+[outputfile]
+dataa4.txt
+[do_animation]
+true
+[anim_filename]
+animaaatio

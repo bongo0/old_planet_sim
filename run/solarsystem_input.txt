@@ -1,0 +1,37 @@
+[planets]
+9
+1.0243e26 4.4595e12,0,0 0,5430,0
+8.6810e25 2.7421e12,0,0 0,6800.,0
+5.6836e26 1.35e12,0,0 0,9690.,0
+1.8986e27 7.783e11,0,0 0,13070.,0
+6.4171e23 2.27939e11,0,0 0,24077,0
+5.97219e24 1.496e11,0,0 0,29780.,0
+4.8675e24 108.208e6,0,0 0,35020,0
+3.3011e23 46.0012e6,0,0 0,47362.,0
+1.98855e30 0,0,0 0,0,0
+[planet_names]
+Neptune
+Uranus
+Saturn
+Jupiter
+Mars
+Earth
+Venus
+Mercury
+Sun
+[iterations]
+1000000
+[total_time]
+3.7407e8
+[update_step]
+100000
+[save_step]
+1000
+[frame_step]
+10
+[outputfile]
+solarsystem_output.txt
+[do_animation]
+true
+[anim_filename]
+solarsystem
